@@ -28,9 +28,9 @@
     <string name="at">at</string>
     <string name="by">by</string>
     <string name="menu_about">about</string>
-    <string name="version">Version 1.0.9</string>
+    <string name="version">Version 1.0.9.1</string>
     <string name="codename">Codename Break the ICE</string>
-    <string name="copyright">Copyright \u00a9 2013 St Aloysius College</string>
+    <string name="copyright">Copyright \u00a9 2014 St Aloysius College</string>
     <string name="website">www.speech-assist.com</string>
     <string name="keyboard">Disable Swipe Action Keyboard</string>
     <string name="longpress">Change "'Touch and Hold Delay'" To Make Pressing Buttons Easier</string>
